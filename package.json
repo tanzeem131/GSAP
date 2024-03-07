@@ -1,0 +1,17 @@
+{
+  "name": "gsap",
+  "version": "1.0.0",
+  "description": "landing page",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanzeem",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5"
+  }
+}
